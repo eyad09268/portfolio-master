@@ -1,6 +1,7 @@
 import React from 'react'
 import {Col, Row} from 'react-bootstrap'
 import {CgCPlusPlus} from 'react-icons/cg'
+import { FaHtml5 } from "react-icons/fa";
 import {
   FaHtml5,
   DiJavascript1,
@@ -26,7 +27,7 @@ function Techstack() {
         <CgCPlusPlus />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
+        <FaHtml5 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />
