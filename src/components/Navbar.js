@@ -46,7 +46,7 @@ function NavBar() {
               fontSize: '28px',
             }}
           >
-            Mohit Sojitra
+            EYAD WAEL
           </p>
         </Navbar.Brand>
         <Navbar.Toggle
