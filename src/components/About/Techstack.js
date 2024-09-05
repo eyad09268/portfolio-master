@@ -2,7 +2,6 @@ import React from 'react'
 import {Col, Row} from 'react-bootstrap'
 import {CgCPlusPlus} from 'react-icons/cg'
 import {
-  FaHtml5,
   DiJavascript1,
   DiReact,
   DiNodejs,
